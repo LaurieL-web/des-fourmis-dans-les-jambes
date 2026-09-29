@@ -1,12 +1,12 @@
 # 🐜 Des Fourmis dans les Jambes — Site du podcast
 
-Site web pour le podcast [Des Fourmis dans les Jambes](https://www.instagram.com/desfourmisdanslesjambes/) de Claire Cornu, où on papote en bougeant.
+🚧 Projet personnel en cours de développement.
 
-🚧 Projet en cours de développement.
+Claire adore bouger, presque autant qu'elle aime écouter les gens pour comprendre ce qui les anime. Alors elle papote en marchant — et de ces échanges naissent des conversations qu'on a envie de réécouter. C'est tout l'esprit de ce podcast : [Des Fourmis dans les Jambes](https://www.instagram.com/desfourmisdanslesjambes/).
 
 ## 🎯 Objectif
 
-Présenter le podcast et ses épisodes : accueil, liste des épisodes, page détail avec lecteur audio intégré.
+Présenter le podcast et ses épisodes : accueil, présentation de l'hôtesse, liste des épisodes, page détail avec lecteur audio intégré. 
 
 ## 🛠️ Stack technique
 
