@@ -17,7 +17,7 @@ Présenter le podcast et ses épisodes : accueil, présentation de l'hôtesse, l
 - Ruby on Rails
 - PostgreSQL
 - Active Storage + Cloudinary (vignettes)
-- HTML / CSS / JavaScript
+- HTML / CSS
 
 ## 🚀 Installation
 
