@@ -1,24 +1,30 @@
-# README
+# 🐜 Des Fourmis dans les Jambes — Site du podcast
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Site web pour le podcast [Des Fourmis dans les Jambes](https://www.instagram.com/desfourmisdanslesjambes/) de Claire Cornu, où on papote en bougeant.
 
-Things you may want to cover:
+🚧 Projet en cours de développement.
 
-* Ruby version
+## 🎯 Objectif
 
-* System dependencies
+Présenter le podcast et ses épisodes : accueil, liste des épisodes, page détail avec lecteur audio intégré.
 
-* Configuration
+## 🛠️ Stack technique
 
-* Database creation
+- Ruby on Rails
+- PostgreSQL
+- Active Storage + Cloudinary (vignettes)
+- HTML / CSS / JavaScript
 
-* Database initialization
+## 🚀 Installation
 
-* How to run the test suite
+```bash
+git clone https://github.com/LaurieL-web/des-fourmis-dans-les-jambes.git
+cd des-fourmis-dans-les-jambes
+bundle install
+rails db:create db:migrate
+rails server
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+## 📌 Statut
 
-* Deployment instructions
-
-* ...
+En développement — projet personnel pour approfondir mes compétences en Ruby on Rails.
