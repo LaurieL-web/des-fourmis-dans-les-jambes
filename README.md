@@ -2,7 +2,7 @@
 
 🚧 Projet personnel en cours de développement.
 
-[Des Fourmis dans les Jambes](https://www.instagram.com/desfourmisdanslesjambes/) est un podcast de conversations en mouvement, animé par Claire, qui part à la rencontre de personnes passionnées par le sport et ce qu’il leur apporte au quotidien.
+[Des Fourmis dans les Jambes](https://www.instagram.com/desfourmisdanslesjambes/) est un podcast de conversations en mouvement, animé par Claire, qui part à la rencontre de personnes passionnées par le sport.
 
 En courant, nageant ou marchant, Claire échange avec ses invités autour de leurs défis, de leur motivation, de leur résilience et de leur rapport au mouvement, pour explorer tout ce que le sport peut apporter bien au-delà de la santé physique.
 
