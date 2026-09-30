@@ -1,23 +1,28 @@
-# 🐜 Des Fourmis dans les Jambes — Site du podcast
+# 🐜 Des Fourmis dans les Jambes — Podcast Website
 
-🚧 Projet personnel en cours de développement.
+🚧 **Personal project currently under development.**
 
-[Des Fourmis dans les Jambes](https://www.instagram.com/desfourmisdanslesjambes/) est un podcast de conversations en mouvement, animé par Claire, qui part à la rencontre de personnes passionnées par le sport.
+[Des Fourmis dans les Jambes](https://www.instagram.com/desfourmisdanslesjambes/) is a podcast featuring conversations on the move, hosted by Claire, who meets people passionate about sports and what it brings to their everyday lives.
 
-En courant, nageant ou marchant, Claire échange avec ses invités autour de leurs défis, de leur motivation, de leur résilience et de leur rapport au mouvement, pour explorer tout ce que le sport peut apporter bien au-delà de la santé physique.
+While running, swimming or walking, Claire talks with her guests about their challenges, motivation, resilience and relationship with movement, exploring everything sport can bring beyond physical health.
 
-Un podcast pour découvrir après quoi courent tous ces gens, et pourquoi le fait de bouger peut changer bien plus que notre corps.
+A podcast about discovering what drives people forward, and how movement can change much more than just our bodies.
 
-## 🎯 Objectif
+## 🎯 Goal
 
-Présenter le podcast et ses épisodes : accueil, présentation de l'hôtesse, liste des épisodes, page détail avec lecteur audio intégré. 
+Build a website to showcase the podcast and its episodes, including:
 
-## 🛠️ Stack technique
+* Home page
+* Host introduction
+* Episode list
+* Individual episode pages with an integrated audio player
 
-- Ruby on Rails
-- PostgreSQL
-- Active Storage + Cloudinary (vignettes)
-- HTML / CSS
+## 🛠️ Tech Stack
+
+* Ruby on Rails
+* PostgreSQL
+* Active Storage + Cloudinary (thumbnails)
+* HTML / CSS
 
 ## 🚀 Installation
 
@@ -29,6 +34,6 @@ rails db:create db:migrate
 rails server
 ```
 
-## 📌 Statut
+## 📌 Status
 
-En développement — projet personnel pour approfondir mes compétences en Ruby on Rails.
+**In development** — personal project to deepen my skills in Ruby on Rails.
